@@ -1,6 +1,6 @@
 /*선택자는 태그 > 클래스 > 아이디 순으로 강력하다.*/
 a {
-    color: black;
+    color: blue;
     text-decoration: none;
 }
 
